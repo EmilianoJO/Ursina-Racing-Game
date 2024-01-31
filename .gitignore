@@ -1,0 +1,6 @@
+venv/*
+!venv/Lib
+venv/Lib/*
+!venv/Lib/site-packages
+venv/Lib/site-packages/*
+!venv/Lib/site-packages/ursina
